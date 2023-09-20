@@ -1,2 +1,5 @@
-
+tr,td,th{
+	border:1px solid rgb(0,0,0);
+	border-spacing:0;
+}
 /* Your CSS Code here. */
